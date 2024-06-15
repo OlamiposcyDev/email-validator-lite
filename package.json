@@ -1,12 +1,20 @@
 {
-  "name": "email-validation-lite",
-  "version": "1.0.0",
-  "description": "",
+  "name": "poscy-email-validator",
+  "version": "1.0.1",
+  "description": "A simple and lightweight email validation package.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olamiposcydev/email-validator-lite.git"
+  },
+  "keywords": ["email", "validation", "validator"],
+  "author": "Olamiposcy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olamiposcydev/email-validator-lite/issues"
+  },
+  "homepage": "https://github.com/olamiposcydev/email-validator-lite#readme"
 }
